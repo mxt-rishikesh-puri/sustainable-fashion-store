@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
-Link: https://rishikesh-p-maxxton.github.io/sustainable-fashion-store/home
+View Deployed Page: https://mxt-rishikesh-puri.github.io/sustainable-fashion-store/home
 
 ## Development server
 
